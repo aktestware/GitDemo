@@ -7,6 +7,7 @@ public class AutoLoanCodes {
 	@Test
 	public void apiAutoLoan() {
 		System.out.println("It is API test on auto loan");
+		System.out.println("It is Revised API test on auto loan done by Y");
 	}
 	
 	@Test
