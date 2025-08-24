@@ -6,6 +6,7 @@ public class HomeLoanCodes {
 	@Test
 	public void apiHomeLoan() {
 		System.out.println("It is API test on home loan");
+		System.out.println("It is revised API test on home loan done by X");
 	}
 	
 	@Test
