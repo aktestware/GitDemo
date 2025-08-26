@@ -15,6 +15,11 @@ public class PersonalLoanCodes {
 	}
 	
 	@Test
+	public void mobilePersonalLoan() {
+		System.out.println("It is mobile test of personal loan");
+	}
+	
+	@Test
 	public void dbPersonalLoan() {
 		System.out.println("It is Data base testing of personal loan");
 	}

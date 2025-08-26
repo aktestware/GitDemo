@@ -15,6 +15,11 @@ public class HomeLoanCodes {
 	}
 	
 	@Test
+	public void webHomeLoan2() {
+		System.out.println("It is second web test of home loan");
+	}
+	
+	@Test
 	public void dbHomeLoan() {
 		System.out.println("It is Data base testing of home loan");
 	}

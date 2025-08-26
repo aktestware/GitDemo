@@ -16,6 +16,11 @@ public class AutoLoanCodes {
 	}
 	
 	@Test
+	public void mobileAutoLoan() {
+		System.out.println("It is mobile test of auto loan");
+	}
+	
+	@Test
 	public void dbAutoLoan() {
 		System.out.println("It is Data base testing of auto loan");
 	}
